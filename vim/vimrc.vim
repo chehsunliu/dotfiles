@@ -54,9 +54,9 @@ syntax on
 "  Plugin Specific Settings
 " ------------------------------------------------------------
 
+" nerdtree
+map <Leader>n :NERDTreeToggle<CR>
+
 " vim-airline
 let g:airline_powerline_fonts=1
 let g:airline_theme='papercolor'
-
-" NERDTree
-map <Leader>n :NERDTreeToggle<CR>
