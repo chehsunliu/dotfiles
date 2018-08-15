@@ -39,6 +39,9 @@ colorscheme base16-default-dark
 
 let mapleader = ","
 
+" Press shift + y to copy from the cursor to the end of the line.
+nmap Y y$
+
 set background=dark
 set cul
 set hls
