@@ -47,6 +47,7 @@ set ruler
 set showcmd
 set showmatch
 set sw=4 sts=4 et
+set t_Co=256
 
 syntax on
 
