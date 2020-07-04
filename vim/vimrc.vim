@@ -13,6 +13,7 @@ call vundle#begin()
 Plugin 'VundleVim/Vundle.vim'
 
 Plugin 'chriskempson/base16-vim'
+Plugin     'ekalinin/Dockerfile.vim'
 Plugin   'scrooloose/nerdtree'
 Plugin      'Xuyuanp/nerdtree-git-plugin'
 Plugin  'vim-airline/vim-airline'
