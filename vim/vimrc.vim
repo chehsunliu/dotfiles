@@ -16,11 +16,13 @@ Plugin 'chriskempson/base16-vim'
 Plugin     'ekalinin/Dockerfile.vim'
 Plugin   'scrooloose/nerdtree'
 Plugin      'Xuyuanp/nerdtree-git-plugin'
+Plugin         'aklt/plantuml-syntax'
 Plugin  'vim-airline/vim-airline'
 Plugin  'vim-airline/vim-airline-themes'
 Plugin   'easymotion/vim-easymotion'
 Plugin        'tpope/vim-fugitive'
 Plugin        'fatih/vim-go'
+Plugin  'dhruvasagar/vim-table-mode'
 Plugin     'Valloric/YouCompleteMe'
 
 " All of your Plugins must be added before the following line
