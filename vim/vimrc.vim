@@ -61,6 +61,7 @@ syntax on
 " Filetype specific indentation
 au FileType go setlocal tabstop=4 sw=4 sts=0 noet
 au FileType yaml setlocal sw=2 sts=2
+au FileType rst setlocal sw=3 sts=3
 
 " ------------------------------------------------------------
 "  Plugin Specific Settings
