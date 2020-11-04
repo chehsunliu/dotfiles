@@ -12,8 +12,10 @@ call vundle#begin()
 " let Vundle manage Vundle, required
 Plugin 'VundleVim/Vundle.vim'
 
-Plugin 'chriskempson/base16-vim'
 Plugin     'ekalinin/Dockerfile.vim'
+Plugin     'Valloric/YouCompleteMe'
+Plugin 'chriskempson/base16-vim'
+Plugin       'vito-c/jq.vim'
 Plugin   'scrooloose/nerdtree'
 Plugin      'Xuyuanp/nerdtree-git-plugin'
 Plugin         'aklt/plantuml-syntax'
@@ -23,7 +25,6 @@ Plugin   'easymotion/vim-easymotion'
 Plugin        'tpope/vim-fugitive'
 Plugin        'fatih/vim-go'
 Plugin  'dhruvasagar/vim-table-mode'
-Plugin     'Valloric/YouCompleteMe'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
