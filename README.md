@@ -15,7 +15,7 @@ $ which vim
 /usr/local/bin/vim
 ```
 
-Then install SpaceVim from the [official site](https://spacevim.org/) and copy `./spacevim/init.toml` to `$HOME/.SpaceVim.d/init.toml`.
+Install SpaceVim from the [official site](https://spacevim.org/) and copy the files under `./spacevim/` to `$HOME/.SpaceVim.d/`.
 
 Extra steps are required:
 
