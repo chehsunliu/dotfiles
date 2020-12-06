@@ -33,4 +33,4 @@ Extra steps are required:
   ```
 
 - Install [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts).
-- Change the terminal font to ****Hack Nerd Font Mono*.
+- Change the terminal font to **Hack Nerd Font Mono**.
