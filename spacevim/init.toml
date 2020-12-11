@@ -24,10 +24,11 @@
     enable_tabline_filetype_icon = true
     enable_statusline_mode = false
     # File manager
-    filemanager = "defx"
     filetree_direction = "left"
     # Bootstrap
     bootstrap_after = "myspacevim#after"
+    # Completion
+    autocomplete_method = "asynccomplete"
 
 # Enable autocomplete layer
 [[layers]]
@@ -45,12 +46,3 @@ name = "lang#c"
 
 [[layers]]
 name = "lang#python"
-
-[[custom_plugins]]
-repo = "roxma/nvim-yarp"
-merged = false
-
-[[custom_plugins]]
-repo = "roxma/vim-hug-neovim-rpc"
-merged = false
-
