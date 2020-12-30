@@ -29,6 +29,8 @@
     bootstrap_after = "myspacevim#after"
     # Completion
     autocomplete_method = "asynccomplete"
+    # Q recording mode
+    windows_smartclose = ""
 
 # Enable autocomplete layer
 [[layers]]
