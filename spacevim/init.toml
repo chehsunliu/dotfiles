@@ -51,3 +51,6 @@ name = "lang#python"
 
 [[layers]]
 name = "lang#kotlin"
+
+[[layers]]
+name = "lang#go"
