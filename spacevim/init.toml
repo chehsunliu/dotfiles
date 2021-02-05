@@ -28,7 +28,7 @@
     # Bootstrap
     bootstrap_after = "myspacevim#after"
     # Completion
-    autocomplete_method = "asynccomplete"
+    autocomplete_method = "asyncomplete"
     # Q recording mode
     windows_smartclose = ""
     default_indent = 4
