@@ -26,7 +26,7 @@
     # File manager
     filetree_direction = "left"
     # Bootstrap
-    bootstrap_after = "myspacevim#after"
+    bootstrap_before = "myspacevim#before"
     # Completion
     autocomplete_method = "asyncomplete"
     # Q recording mode
