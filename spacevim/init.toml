@@ -55,3 +55,6 @@ name = "lang#kotlin"
 
 [[layers]]
 name = "lang#go"
+
+[[layers]]
+name = "lang#toml"
