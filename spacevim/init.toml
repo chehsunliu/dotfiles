@@ -32,7 +32,7 @@
     autocomplete_method = "asyncomplete"
     # Q recording mode
     windows_smartclose = ""
-    default_indent = 4
+    default_indent = 2
 
 # Enable autocomplete layer
 [[layers]]
