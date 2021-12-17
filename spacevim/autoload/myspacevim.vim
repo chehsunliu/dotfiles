@@ -7,4 +7,5 @@ function! myspacevim#before() abort
 
   " For nand2tetris
   au BufRead,BufNewFile *.hdl set filetype=verilog
+  autocmd FileType verilog setlocal ts=4 sts=4 sw=4 expandtab
 endfunction
