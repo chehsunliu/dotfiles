@@ -63,3 +63,7 @@ name = "lang#go"
 
 [[layers]]
 name = "lang#toml"
+
+[[custom_plugins]]
+repo = "https://github.com/sevko/vim-nand2tetris-syntax"
+merged = false
