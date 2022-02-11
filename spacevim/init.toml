@@ -67,3 +67,7 @@ name = "lang#toml"
 [[custom_plugins]]
 repo = "https://github.com/sevko/vim-nand2tetris-syntax"
 merged = false
+
+[[custom_plugins]]
+repo = "https://github.com/bfrg/vim-jq"
+merged = false
